@@ -1,6 +1,14 @@
 #include <iostream>
 int main()
 {
-   auto d2 = 2;
-   std::cout<<d2<<"\n";
+   std::cout<<"Hello World\n";
+   return 0;
 } 
+
+//To support C++11, in terminal, if bash
+//echo "alias g++='g++ -std=c++11'" >> ~/.bashrc
+//source ~/.bashrc
+
+//if zsh (I use zsh)
+//echo "alias g++='g++ -std=c++11'" >> ~/.zshrc
+//source ~/.zshrc

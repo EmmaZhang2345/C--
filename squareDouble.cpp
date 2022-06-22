@@ -14,7 +14,6 @@ void print_square(double x)
 
 int main()
 {
-    double d2 {2.3};
-    cout<<d2<<"\n";
+    print_square(1.234);
     return 0;
 }

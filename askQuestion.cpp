@@ -10,3 +10,6 @@ int main()
     if(answer=='y')
         cout<<"you choose yes\n";
 }
+
+//To make vistual studio code allow user input, in the settings.json
+//add "code-runner.runInTerminal": true,
